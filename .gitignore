@@ -13,3 +13,5 @@ research_dir/*
 state_saves/*
 __pycache__/*
 Figure*.png
+node_modules/
+.env
